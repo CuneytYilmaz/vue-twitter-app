@@ -21,8 +21,5 @@ npm start
 
 <p align="center">
 <img src="https://github.com/CuneytYilmaz/vue-twitter-app/blob/master/img/vue-twitter-1.png" height="450"/>
-</p>
-
-<p align="center">
 <img src="https://github.com/CuneytYilmaz/vue-twitter-app/blob/master/img/vue-twitter-2.png" height="450"/>
 </p>
